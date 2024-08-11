@@ -1,0 +1,28 @@
+* {
+    font-family: cursive;
+}
+header {
+    position: sticky;
+    top: 0;
+    background-color: palevioletred;
+}
+li {
+    display: inline;
+}
+.input {
+    line-height: 50px;
+}
+
+#contact-form {
+    color: palevioletred;
+    background-color: blanchedalmond;
+    border: solid black;
+}
+
+footer {
+    background-color: palevioletred;
+}
+
+img {
+    position:static;
+}
